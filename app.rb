@@ -7,7 +7,7 @@ require 'logger'
 require 'event_stream_parser'
 
 set :port, 8083
-set :bind, '127.0.0.1'
+set :bind, '0.0.0.0'
 
 UPSTREAM_URL = 'https://foundation-models.api.cloud.ru' 
 UPSTREAM_PATH = '/v1/chat/completions' 
