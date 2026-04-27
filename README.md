@@ -224,9 +224,9 @@ To run opencode with the `zai-org/GLM-4.7` model and glm-fixer, create a new pro
 
 ## Лицензия / License
 
-Библиотека доступна с открытым исходным кодом в соответствии с условиями [лицензии MIT](LICENSE).
+Библиотека доступна с открытым исходным кодом в соответствии с условиями лицензии MIT.
 
 ---
 
-The gem is available as open source under the terms of the [MIT License](LICENSE).
+The gem is available as open source under the terms of the MIT License.
 
